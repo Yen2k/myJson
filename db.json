@@ -1,11 +1,8 @@
 
-{
-  "posts": [
+[
     { "name": "Brandon", "born": "04/04/2021", "breed":"long hair syrian" },
     { "name":"Cindy", "born": "03/31/2021", "breed":"short hair syrian"},
     { "name": "Diante", "born": "04/07/2021", "breed":"Winter White"},
     { "name": "Edwin", "born": "04/07/2021", "breed":"Winter White" },
     { "name": "Freddy", "born": "04/01/2021", "breed":"Roborovski"}
   ]
-  
-}
